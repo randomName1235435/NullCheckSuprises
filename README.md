@@ -1,4 +1,4 @@
 # NullCheckSuprises
 Better/Worse null/not null-checkt
 
-![result](result.JPG)
+![results](results.JPG)
