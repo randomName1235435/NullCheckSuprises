@@ -1,2 +1,2 @@
 # NullCheckSuprises
-Better/Worse null/not null-checkt
+Better/Worse null/not null-check
